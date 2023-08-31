@@ -229,3 +229,4 @@ long_format_df.to_csv('C:/Users/luigi/OneDrive - University of Glasgow/Desktop/P
 print(long_format_df)
 
 # In this updated pipeline, I added the Image Classification step using the ResNet-50 model. The predicted label #romesNet-50 is included in the final results.
+## I have a new pipeline for twitter, it can be interesting to upload the code also here, to have savings each few images. just to be sure. although it will not be necessary, if the problem was internet and I download all the images ahead. in my local laptop or home
